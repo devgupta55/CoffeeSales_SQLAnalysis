@@ -180,17 +180,3 @@ order by 6 desc
 
 limit 3
 */
--- Recommendations & Reasons
--- Question 11: 
--- City 1: Pune
--- Question: Average rent per customer is very low.
--- Question: Highest total revenue.
--- Question: Average sales per customer is also high.
--- Question: City 2: Delhi
--- Question: Highest estimated coffee consumers at 7.7 million.
--- Question: Highest total number of customers, which is 68.
--- Question: Average rent per customer is 330 (still under 500).
--- Question: City 3: Jaipur
--- Question: Highest number of customers, which is 69.
--- Question: Average rent per customer is very low at 156.
--- Question: Average sales per customer is better at 11.6k.
